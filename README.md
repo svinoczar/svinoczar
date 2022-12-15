@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div id="telegram-link" align="center">
   <a href="https://t.me/s1nshin3">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmolodezhnv.ru%2Fo-nas%2Fknopka-telegram&psig=AOvVaw1Gmxi_QwNWaZnP6Org5JBv&ust=1671234228187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCHjebm_PsCFQAAAAAdAAAAABAK" alt="Telegram Badge"/>
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmolodezhnv.ru%2Fo-nas%2Fknopka-telegram&psig=AOvVaw1Gmxi_QwNWaZnP6Org5JBv&ust=1671234228187000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCHjebm_PsCFQAAAAAdAAAAABAK](https://brands.home-assistant.io/_/telegram_bot/logo.png)" alt="Telegram Link"/>
   </a>
 </div>
 
