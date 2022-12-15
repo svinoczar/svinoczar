@@ -1,6 +1,6 @@
 <div id="telegram-link" align="center">
   <a href="https://t.me/s1nshin3">
-    <img src="https://img.icons8.com/color/512/telegram-app.png" alt="Telegram Link"/>
+    <img src="blob:null/50a0d14a-0a9e-46d3-8e6f-137f3c7b6d20" alt="Telegram Link"/>
   </a>
 </div>
 
