@@ -1,6 +1,6 @@
 <div id="telegram-link" align="center">
   <a href="https://t.me/s1nshin3">
-    <img src="https://brands.home-assistant.io/_/telegram_bot/logo.png" alt="Telegram Link"/>
+    <img src="https://img.icons8.com/color/512/telegram-app.png" alt="Telegram Link"/>
   </a>
 </div>
 
