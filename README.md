@@ -1,5 +1,6 @@
 ### :link: Links :
-You cand write me here: <div id="telegram-link" align="left-side">
+You can write to me here:
+<div id="telegram-link" align="left-side">
   <a href="https://t.me/s1nshin3">
     <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Link"/>
   </a>
