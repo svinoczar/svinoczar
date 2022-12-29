@@ -15,7 +15,6 @@ You can write to me here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>
 <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="35" height="45"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="35" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="35" height="45"/> -->
 </div>
 
