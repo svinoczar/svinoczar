@@ -1,4 +1,4 @@
-### :link: Links :
+### 🔗 Links :
 You can write to me here:
 <div id="telegram-link" align="left-side">
   <a href="https://t.me/svinoczar">
@@ -8,7 +8,7 @@ You can write to me here:
 
 ##
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>
