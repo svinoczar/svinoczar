@@ -1,6 +1,6 @@
 ## Hi there 🐾
 
-*Contacts:* **aleksandrmb04@gmail.com** | **[Telegram](https://t.me/EskimoCold)**
+*Contacts:* **aleksandrmb04@gmail.com** | **[Telegram](https://t.me/svinoczar)**
 
 *(For a quick reply please dm me at tg)*
 
