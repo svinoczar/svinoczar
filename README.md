@@ -1,33 +1,21 @@
-### 🔗 Links :
-You can write to me here:
-<div id="telegram-link" align="left-side">
-  <a href="https://t.me/svinoczar">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram Link"/>
-  </a>
-</div>
+## Hi there 🐾
 
-##
+*Contacts:* **aleksandrmb04@gmail.com** | **[Telegram](https://t.me/EskimoCold)**
 
-### 🛠️ Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="50" height="40"/>  -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="Php" width="50" height="50"/>  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="50" height="40"/> 
+*(For a quick reply please dm me at tg)*
+
+### About me  
+- I am currently learning at ***ITMO University, Software Engineering faculty***
+- Trainee back-end developer
+
+<div id="skills", align="left">
+  <h3> Basic skills</h3>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,linux,idea,vim,gradle,maven,git&theme=dark" />
+
+  <h3> Back-end related skills</h3>
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,postman&theme=dark" />
   
-  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>  -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" alt="Git" width="40" height="40"/>
-
+  <h3> DB related skills</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 </div>
-
-##
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svinoczar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notsunshine&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
