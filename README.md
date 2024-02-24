@@ -10,7 +10,7 @@
 
 <div id="skills", align="left">
   <h3> Basic skills</h3>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,linux,idea,vim,gradle,maven,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,linux,git&theme=dark" />
 
   <h3> Back-end related skills</h3>
     <img src="https://skillicons.dev/icons?i=spring,hibernate,postman&theme=dark" />
