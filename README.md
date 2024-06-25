@@ -6,7 +6,7 @@
 
 ### About me  
 - I am currently learning at ***ITMO University, Software Engineering faculty***
-- Trainee back-end developer
+- Junior back-end developer
 
 <div id="skills", align="left">
   <h3> Basic skills</h3>
